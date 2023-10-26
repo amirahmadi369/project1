@@ -1,0 +1,16 @@
+{
+    "name": "user/7todo",
+    "description": "a simple list project(with ajax ...)",
+    "type": "mit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "amir",
+            "email": "amirahmadi.a.369@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "hekmatinasser/verta": "^8.3"
+    }
+}
